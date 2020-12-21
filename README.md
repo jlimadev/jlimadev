@@ -16,11 +16,7 @@ I started working as Business Intellegence Analyst but i changed the path of my 
 
 ### What im i doing?
 <center>
-<table>
-  <tr>
-      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=jlimadev&theme=dark&show_icons=true&count_private=true" /></td>
-  </tr>  
-</table>
+<img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=jlimadev&theme=dark&show_icons=true&count_private=true" />
 </center>
 
 **Languages and Tools that i'm studying:**  
