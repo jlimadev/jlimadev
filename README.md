@@ -11,13 +11,15 @@ I started working as Business Intellegence Analyst but i changed the path of my 
   <a href="https://github.com/jlimadev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/jonathanalvesdelima/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+
 
 
 ### What im i doing?
-<center>
-<img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=jlimadev&theme=dark&show_icons=true&count_private=true" />
-</center>
+<p>
+  <center>
+    <img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=jlimadev&theme=dark&show_icons=true&count_private=true" />
+  </center>
+</p>
 
 **Languages and Tools that i'm studying:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
