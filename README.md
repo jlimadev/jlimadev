@@ -1,10 +1,10 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jlimadev)
+
 ### Hi there, I'm Jonathan Lima 👋 
 
 I am a Brazilian software engineer passionate for learn, practice and code!
 
 I started working as Business Intellegence Analyst but i changed the path of my carreer when i started code and automate lots of tasks, then i really enjoyed this! Since there i'm working and evolving as a developer.
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jlimadev)
 
 <h3>You can find me here</h3>
 <p>
