@@ -13,21 +13,21 @@ I started working as Business Intellegence Analyst but i changed the path of my 
   </a>
 </p>
 
-### What im i doing?
+### What im I doing?
 <p>
 <center>
   <img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=jlimadev&theme=slateorange&show_icons=true&count_private=true" />
 </center>
 </p>
+<br />
 
-### Languages and Tools that i'm studying: 
+**Languages and Tools that i'm studying:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
-
 
 <!--
 **jlimadev/jlimadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
