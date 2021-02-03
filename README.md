@@ -1,5 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jlimadev)
-
 ### Hi there, I'm Jonathan Lima 👋 
 
 I am a Brazilian software engineer passionate for learn, practice and code!
@@ -24,7 +22,6 @@ I started working as Business Intellegence Analyst but i changed the path of my 
 ### What im I doing?
 <p>
 <center>
-  <img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=jlimadev&theme=slateorange&show_icons=true&count_private=true" />
   <img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlimadev&layout=compact&theme=material-palenight&hide=Jupyter%20notebook,html" />
 </center>
 </p>
