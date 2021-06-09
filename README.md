@@ -28,7 +28,7 @@ I started working as Business Intellegence Analyst but i changed the path of my 
 ### What im I doing?
 <p>
 <center>
-  <img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlimadev&layout=compact&theme=material-palenight&hide=Jupyter%20notebook,html" />
+  <img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlimadev&layout=compact&theme=material-palenight&hide=Jupyter%20notebook,html,objective-c,ruby" />
 </center>
 </p>
 
