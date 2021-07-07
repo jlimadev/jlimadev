@@ -5,12 +5,13 @@ I am a Brazilian software engineer passionate for learn, practice and code!
 Here in my github you can find my personal projects and study notes.
 
 ## 😃 Connect With Me
-<p>
+<p align="center">
   <a href="https://github.com/jlimadev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/jonathanalvesdelima/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
    <a href="https://www.twitter.com/jonlima96/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
+</p>
 
 ## 💻 Technologies, Tools and Services
   In this section you can find all Technologies, Tools And Services that i'm always learning something or practicing.
@@ -34,12 +35,6 @@ Here in my github you can find my personal projects and study notes.
     <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
     <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-  </p>
-  
-  <p align="center">
-    <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   </p>
   
   <p align="center">
