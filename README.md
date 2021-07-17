@@ -17,38 +17,38 @@ Here in my github you can find my personal projects and study notes.
   In this section you can find all Technologies, Tools And Services that i'm always learning something or practicing.
  
  <p align="center">
-  <code><img alt="Javascript" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img alt="Typescript" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-  <code><img alt="NodeJs" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-  <code><img alt="Kotlin" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-  <code><img alt="Java" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-  <code><img alt="Python" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-  <code><img alt="Springboot" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png">     </code>
-  <code><img alt="Express.js" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"/>
+  <code><img title="Javascript" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img title="Typescript" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+  <code><img title="NodeJs" alt="NodeJs" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+  <code><img title="Kotlin" alt="Kotlin" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+  <code><img title="Java" alt="Java" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+  <code><img title="Python" alt="Python" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <code><img title="React" alt="React" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+  <code><img title="Springboot" alt="Springboot" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png">     </code>
+  <code><img title="Express.js" alt="Express.js" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"/>
  </p></code>
   
   <p align="center">
-    <code><img alt="Jest" height="20" src="https://images.opencollective.com/jest/2fa74a8/logo/256.png"></code>
-    <code><img alt="ChaiJs" height="20" src="https://avatars.githubusercontent.com/u/1515293?s=200&v=4"></code>
-    <code><img alt="Mocha" height="20" src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667"></code>
-  <code><img alt="Istanbuljs" height="20" src="https://avatars.githubusercontent.com/u/13523395?s=200&v=4"></code>
-  <code><img alt="JUnit5" height="20" src="https://camo.githubusercontent.com/abbaedce4b226ea68b0fd43521472b0b146d5ed57956116f69752f43e7ddd7d8/68747470733a2f2f6a756e69742e6f72672f6a756e6974352f6173736574732f696d672f6a756e6974352d6c6f676f2e706e67"></code>
-  <code><img alt="Jacoco" height="20" src="https://avatars.githubusercontent.com/u/1939631?s=200&v=4"></code>
-  <code><img alt="ESLint" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png"></code>
+    <code><img title="Jest" alt="Jest" height="20" src="https://images.opencollective.com/jest/2fa74a8/logo/256.png"></code>
+    <code><img title="ChaiJs" alt="ChaiJs" height="20" src="https://avatars.githubusercontent.com/u/1515293?s=200&v=4"></code>
+    <code><img title="Mocha" alt="Mocha" height="20" src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667"></code>
+  <code><img title="Istanbuljs" alt="Istanbuljs" height="20" src="https://avatars.githubusercontent.com/u/13523395?s=200&v=4"></code>
+  <code><img title="JUnit5" alt="JUnit5" height="20" src="https://camo.githubusercontent.com/abbaedce4b226ea68b0fd43521472b0b146d5ed57956116f69752f43e7ddd7d8/68747470733a2f2f6a756e69742e6f72672f6a756e6974352f6173736574732f696d672f6a756e6974352d6c6f676f2e706e67"></code>
+  <code><img title="JaCoCo" alt="JaCoCo" height="20" src="https://avatars.githubusercontent.com/u/1939631?s=200&v=4"></code>
+  <code><img title="ESLint" alt="ESLint" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png"></code>
   </p>
   
   <p align="center">
-    <code><img alt="Docker" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/></code>
-    <code><img alt="Terraform" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
-    <code><img alt="AWS" height="20" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
-    <code><img alt="Heroku" height="20" src="https://avatars.githubusercontent.com/u/23211?s=200&v=4"/></code>
-    <code><img alt="Git" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-    <code><img alt="MongoDB" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/></code>
-    <code><img alt="Postgres" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/></code>
-  <code><img alt="Sonar" height="20" src="https://avatars.githubusercontent.com/u/545988?s=200&v=4"/></code>
-  <code><img alt="TravisCI" height="20" src="https://avatars.githubusercontent.com/u/639823?s=200&v=4"/></code>
-  <code><img alt="Jenkins" height="20" src="https://avatars.githubusercontent.com/u/107424?s=200&v=4"/></code>
+    <code><img title="Docker" alt="Docker" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/></code>
+    <code><img title="Terraform" alt="Terraform" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
+    <code><img title="AWS" alt="AWS" height="20" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
+    <code><img title="Heroku" alt="Heroku" height="20" src="https://avatars.githubusercontent.com/u/23211?s=200&v=4"/></code>
+    <code><img title="Git" alt="Git" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+    <code><img title="MongoDB" alt="MongoDB" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/></code>
+    <code><img title="Postgres" alt="Postgres" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/></code>
+  <code><img title="Sonar" alt="Sonar" height="20" src="https://avatars.githubusercontent.com/u/545988?s=200&v=4"/></code>
+  <code><img title="TravisCI" alt="TravisCI" height="20" src="https://avatars.githubusercontent.com/u/639823?s=200&v=4"/></code>
+  <code><img title="Jenkins" alt="Jenkins" height="20" src="https://avatars.githubusercontent.com/u/107424?s=200&v=4"/></code>
   </p>
     
 
