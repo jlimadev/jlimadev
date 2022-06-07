@@ -1,8 +1,8 @@
 # 👋 Hi there, I am Jonathan Lima!
 
-I am a Brazilian software engineer passionate about wll-designed softwares, about learn and practice anything.
+Software engineer passionate about well-designed softwares, good practices, learn and practice new stuff!
 
-Here in my github you can find my personal projects and study notes.
+Here in my github you can find my personal projects and my study notes.
 
 ## 😃 Connect With Me
 <p align="center">
