@@ -6,10 +6,9 @@ Here in my github you can find my personal projects and my study notes.
 
 ## 😃 Connect With Me
 <p align="center">
-  <a href="https://github.com/jlimadev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/jonathanalvesdelima/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-   <a href="https://www.twitter.com/jonlima96/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+   <a href="https://www.credly.com/users/jonathan-lima.cb4431fa" target="_blank"><img alt="CredlyB" src="https://img.shields.io/badge/Credly-D14836?style=for-the-badge&logo=credly&logoColor=white"/>
   </a>
 </p>
 
