@@ -1,6 +1,6 @@
 # 👋 Hi there, I am Jonathan Lima!
 
-Software Engineer passionate about well-designed softwares, good practices, learn and practice new stuff!
+Software Engineer passionate about well-designed softwares and good practices. I'm always learning/practicing something new!
 
 Here in my github you can find my personal projects and my study notes.
 
