@@ -16,8 +16,21 @@ Here in my github you can find my personal projects and my study notes.
 
 ## 💻 Technologies, Tools and Services
   In this section you can find all Technologies, Tools And Services that i'm always learning something or practicing.
-  
- <p align="center">
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,nestjs,jest,aws,jenkins,docker,git,github,mongodb,postgres,mongodb,redis,java,kotlin,spring,react,redux,styledcomponents,html,css,vite,md,bash,vscode,idea&perline=7" />
+    </a>
+  </p>  
+
+## 📊 Github Stats
+  <p align="center">
+    <img width="440px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlimadev&layout=compact&theme=material-palenight&hide=Jupyter%20notebook,html,objective-c,ruby" />
+  </p>
+
+<!--
+**jlimadev/jlimadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<p align="center">
   <code><img title="Javascript" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img title="Typescript" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
   <code><img title="NodeJs" alt="NodeJs" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -50,15 +63,6 @@ Here in my github you can find my personal projects and my study notes.
   <code><img title="TravisCI" alt="TravisCI" height="20" src="https://avatars.githubusercontent.com/u/639823?s=200&v=4"/></code>
   <code><img title="Jenkins" alt="Jenkins" height="20" src="https://avatars.githubusercontent.com/u/107424?s=200&v=4"/></code>
   </p>
-    
-
-## 📊 Github Stats
-  <p align="center">
-    <img width="440px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlimadev&layout=compact&theme=material-palenight&hide=Jupyter%20notebook,html,objective-c,ruby" />
-  </p>
-
-<!--
-**jlimadev/jlimadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 A few badges 
 <p align="center">
