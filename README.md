@@ -6,11 +6,14 @@ Here in my github you can find my personal projects and my study notes.
 
 ## 😃 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/jonathanalvesdelima/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/jonathanalvesdelima/" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-   <a href="https://www.credly.com/users/jonathan-lima.cb4431fa" target="_blank"><img alt="Credly" src="https://img.shields.io/badge/Credly-D14836?style=for-the-badge&logo=credly&logoColor=white"/>
+  <a href="https://www.credly.com/users/jonathan-lima.cb4431fa" target="_blank" rel="noopener noreferrer">
+    <img alt="Credly" src="https://img.shields.io/badge/Credly-D14836?style=for-the-badge&logo=credly&logoColor=white"/>
   </a>
-  <a href="https://stackoverflow.com/users/13879410/jlimadev" target="_blank"><img alt="Stack overflow" src="https://img.shields.io/badge/stackoverflow-white?style=for-the-badge&logo=stackoverflow&logoColor=orange"/>
+  <a href="https://stackoverflow.com/users/13879410/jlimadev" target="_blank" rel="noopener noreferrer">
+    <img alt="Stack overflow" src="https://img.shields.io/badge/stackoverflow-white?style=for-the-badge&logo=stackoverflow&logoColor=orange"/>
   </a>
 </p>
 
