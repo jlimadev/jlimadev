@@ -6,7 +6,7 @@ Here in my github you can find my personal projects and my study notes.
 
 ## 😃 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/jonathanalvesdelima/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/jntnlima/" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.credly.com/users/jonathan-lima.cb4431fa" target="_blank" rel="noopener noreferrer">
