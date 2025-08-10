@@ -12,7 +12,7 @@ Here in my github you can find my personal projects and my study notes.
   <a href="https://www.credly.com/users/jonathan-lima.cb4431fa" target="_blank" rel="noopener noreferrer">
     <img alt="Credly" src="https://img.shields.io/badge/Credly-D14836?style=for-the-badge&logo=credly&logoColor=white"/>
   </a>
-  <a href="https://stackoverflow.com/users/13879410/jlimadev](https://stackoverflow.com/users/13879410/jntnlima" target="_blank" rel="noopener noreferrer">
+  <a href="https://stackoverflow.com/users/13879410/jlimadev" target="_blank" rel="noopener noreferrer">
     <img alt="Stackoverflow" src="https://img.shields.io/badge/stackoverflow-white?style=for-the-badge&logo=stackoverflow&logoColor=orange"/>
   </a>
   <a href="mailto:jlima.dev@gmail.com" target="_blank" rel="noopener noreferrer">
